@@ -1,6 +1,6 @@
 # HEVC Video Extensions (.appxbundle)
 
-This repository serves as a personal backup of the HEVC Video Extensions `.appxbundle` file, which is typically priced at ₹50 or $0.99 on the Microsoft Store. I found a clean, working version on a third-party website and decided to host it here in case the original source becomes unavailable.
+This repository serves as a personal backup of the HEVC Video Extensions `.appxbundle` file, which is typically priced at ₹50 or $0.99 on the Microsoft Store. I found a FREE clean, working version on a third-party website and decided to host it here in case the original source becomes unavailable.
 
 ## Note
 
